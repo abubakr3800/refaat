@@ -6,10 +6,10 @@ const route = (event) => {
 };
 
 const routes = {
-    404: "/refaat-app/pages/404.html",
-    "/": "/refaat-app/pages/index.html",
-    "/about": "/refaat-app/pages/about.html",
-    "/lorem": "/refaat-app/pages/lorem.html",
+    404: "/pages/404.html",
+    "/": "/pages/index.html",
+    "/about": "/pages/about.html",
+    "/lorem": "/pages/lorem.html",
 };
 
 const handleLocation = async () => {
