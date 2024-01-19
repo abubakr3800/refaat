@@ -10,6 +10,7 @@ const routes = {
     "/": "/refaat/pages/index.html",
     "/about": "/refaat/pages/about.html",
     "/lorem": "/refaat/pages/lorem.html",
+    "/refaat/ahmed": "http://abubakr.epizy.com/",
 };
 
 const handleLocation = async () => {
