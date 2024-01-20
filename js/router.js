@@ -6,11 +6,11 @@ const route = (event) => {
 };
 
 const routes = {
-    404: "/refaat/pages/404.html",
-    "/": "/refaat/pages/index.html",
-    "/about": "/refaat/pages/about.html",
-    "/lorem": "/refaat/pages/lorem.html",
-    "/refaat/ahmed": "http://abubakr.epizy.com/",
+    404: "/refaat-app/refaat/pages/404.html",
+    "/refaat-app/refaat/": "/refaat-app/refaat/pages/index.html",
+    "/refaat/about": "/refaat-app/refaat/pages/about.html",
+    "/refaat/lorem": "/refaat-app/refaat/pages/lorem.html",
+    "/refaat/ahmed": "/http://abubakr.epizy.com/",
 };
 
 const handleLocation = async () => {
